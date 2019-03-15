@@ -31,7 +31,7 @@ Presentation was built using [reveal.js] and hosted on the Pi using [nginx].
 * https://www.quora.com/What-are-some-cool-fun-random-APIs-such-as-BreweryDB
 
 
-   [Amazon-Cana]: <https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY>
+   [Amazon-Canakit]: <https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY>
    [Kano]: <https://kano.me/store/row>
    [Newark]: <https://www.newark.com/?COM=element14_store_Home>
    [RetroPie]: <https://retropie.org.uk/>
