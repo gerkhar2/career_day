@@ -21,6 +21,12 @@ Presentation was built using [reveal.js] and hosted on the Pi using [nginx].
 * [Pi Skate]: Raspberry powered skateboard
 * [Docker on Pi]: Getting docke installed on a Raspberry Pi
 
+# Coding Tutorials
+* [Code Academy]: Free coding tutorials with immediate feedback
+
+# Betty Brinn Classes & Camps
+* https://www.bbcmkids.org/exhibits/be-a-maker/
+
 # Other Links
 * https://www.dexterindustries.com/howto/use-google-cloud-vision-on-the-raspberry-pi/
 * https://www.tomshardware.com/picturestory/842-raspberry-pi-family-projects.html#s8
@@ -45,6 +51,8 @@ Presentation was built using [reveal.js] and hosted on the Pi using [nginx].
    [Docker on Pi]: <https://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/>
    [reveal.js]: <https://github.com/hakimel/reveal.js/>
    [nginx]: <https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md>
+   [Code Academy]: <https://www.codecademy.com/>
+   
    
    
 
